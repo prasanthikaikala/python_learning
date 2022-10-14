@@ -1,0 +1,15 @@
+1st Term Report card
+-----------------
+Date and Time : 2022-09-26 22:23:38.942612
+-----------------
+Name: Raghu 
+-----------------
+Marks
+-----------------
+Social : 75
+Science : 72
+English : 77
+Maths : 79
+------------------
+Total : 303
+Percentage: 75.75

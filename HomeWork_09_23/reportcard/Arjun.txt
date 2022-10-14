@@ -1,0 +1,15 @@
+1st Term Report card
+-----------------
+Date and Time : 2022-09-26 22:23:38.944605
+-----------------
+Name: Arjun 
+-----------------
+Marks
+-----------------
+Social : 65
+Science : 62
+English : 66
+Maths : 69
+------------------
+Total : 262
+Percentage: 65.5

@@ -1,0 +1,15 @@
+1st Term Report card
+-----------------
+Date and Time : 2022-09-26 22:23:38.948596
+-----------------
+Name: Guru 
+-----------------
+Marks
+-----------------
+Social : 75
+Science : 72
+English : 78
+Maths : 79
+------------------
+Total : 304
+Percentage: 76.0

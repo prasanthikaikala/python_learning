@@ -1,0 +1,15 @@
+1st Term Report card
+-----------------
+Date and Time : 2022-09-26 22:23:38.950589
+-----------------
+Name: Chaitanya 
+-----------------
+Marks
+-----------------
+Social : 65
+Science : 62
+English : 69
+Maths : 75
+------------------
+Total : 271
+Percentage: 67.75

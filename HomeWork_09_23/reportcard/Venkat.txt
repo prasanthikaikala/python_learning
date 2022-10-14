@@ -1,0 +1,15 @@
+1st Term Report card
+-----------------
+Date and Time : 2022-09-26 22:23:38.951587
+-----------------
+Name: Venkat 
+-----------------
+Marks
+-----------------
+Social : 75
+Science : 72
+English : 70
+Maths : 76
+------------------
+Total : 293
+Percentage: 73.25

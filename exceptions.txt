@@ -1,0 +1,72 @@
+syntax errors
+   As the name suggests this error is caused by the wrong syntax in the code.
+It leads to the termination of the program. 
+
+
+
+exceptions:
+    Exceptions are raised when the program is syntactically correct,
+    but the code resulted in an error.
+    This error does not stop the execution of the program, however,
+    it changes the normal flow of the program.
+    
+        1,zero divison error
+        2,name error
+        3,type_error
+handling exceptions:
+          _try
+          catch
+
+rasising exception:
+    The raise statement allows the programmer to force a specific exception to occur.
+    The sole argument in raise indicates the exception to be raised.
+    This must be either an exception instance or an exception class (#a class that derives from Exception).
+          _raise
+
+exception chaining:
+          _raise
+          _from
+
+user defined exception:
+
+defining clean up actions:
+
+predefined clean up actions:
+
+
+          
+    Exception                           
+          
+ArithmeticError    	
+AssertionError	        
+AttributeError	        
+Exception	        
+EOFError	    
+FloatingPointError
+GeneratorExit	        
+ImportError	        
+IndentationError	
+IndexError	        
+KeyError	        
+KeyboardInterrupt
+LookupError	        
+MemoryError	        
+NameError	    
+NotImplementedError 
+OSError	        
+OverflowError
+ReferenceError  	
+RuntimeError	        
+StopIteration
+SyntaxError	    
+TabError	        
+SystemError	
+SystemExit	        
+TypeError	        
+UnboundLocalError   
+UnicodeError
+UnicodeEncodeError	
+UnicodeDecodeError  
+UnicodeTranslateError	
+ValueError	        
+ZeroDivisionError   

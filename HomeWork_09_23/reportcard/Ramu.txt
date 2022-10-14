@@ -1,0 +1,15 @@
+1st Term Report card
+-----------------
+Date and Time : 2022-09-26 22:23:38.939617
+-----------------
+Name: Ramu 
+-----------------
+Marks
+-----------------
+Social : 89
+Science : 92
+English : 90
+Maths : 91
+------------------
+Total : 362
+Percentage: 90.5

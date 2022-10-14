@@ -1,0 +1,15 @@
+1st Term Report card
+-----------------
+Date and Time : 2022-09-26 22:23:38.953581
+-----------------
+Name: Pavan 
+-----------------
+Marks
+-----------------
+Social : 88
+Science : 82
+English : 85
+Maths : 65
+------------------
+Total : 320
+Percentage: 80.0

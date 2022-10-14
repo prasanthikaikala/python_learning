@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Sunny",
+        "phone_no": 9078906443,
+        "city": "BLR"
+    },
+    {
+        "name": "Sam",
+        "phone_no": 9078906443,
+        "city": "HYD"
+    },
+    {
+        "name": "Ramu",
+        "phone_no": "9089067890",
+        "city": "BLR"
+    },
+    {
+        "name": "Satya",
+        "phone_no": "9089067890",
+        "city": "BLR"
+    }
+]

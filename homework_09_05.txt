@@ -1,0 +1,28 @@
+List:-
+         example:-
+                          1.['a',"pqr",'1','2',"mohana",'a','2', ('2','2','2','2','2')]
+                          2.['x','j',"xyz",'x',"satya","234"]
+                          3.["first","second",'i',"first",'1','lkj']
+                          4.['1.2','2.3',"open",'-1','-2','c','d','1.2',2.3']
+                          5.["dog","cat","cda",'1','7',"dog","cda"]
+tuple:-
+           example:-
+                          1.("one",'j','k,','l','2','6','8',"one")
+                           2.("char",'0','s','c,',"char",'m','n','-2')
+                           3.("pen","car",'o',"on",'2','-8','-8')
+                           4.('2','2','2','2','2')
+                           5.("one","two","three","four","five","one")
+set:-
+         example:-
+                          1.{'1','2','5',"one","string"}
+                           2.{'l','k','j',"letter","mike","321"}
+                           3.{"not","ten","tent",'11','22'}
+                           4.{"hate","went","pink",'22'}
+                           5.{'1','2','3','@','#'}
+dictionary:-
+                 example:-
+                                1.{"name":" krishna","age":"23","class":'8',"roll no":'8'}
+                                2.{1:"name",2:"father's name",3:"mother's name",4:"religion"}
+                                3.{"book1":"b1","book2":"b2","book3":"b2"}
+                                4.{"subject1":"math","subject2":"c language","subject3":"c++"}
+                                5.{"year":"2022","month":"september","date":"09-06-2022","day":"tuesday"}

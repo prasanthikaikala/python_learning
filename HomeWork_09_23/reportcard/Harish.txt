@@ -1,0 +1,15 @@
+1st Term Report card
+-----------------
+Date and Time : 2022-09-26 22:23:38.940619
+-----------------
+Name: Harish 
+-----------------
+Marks
+-----------------
+Social : 82
+Science : 82
+English : 88
+Maths : 87
+------------------
+Total : 339
+Percentage: 84.75

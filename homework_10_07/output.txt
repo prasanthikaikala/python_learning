@@ -1,0 +1,10 @@
+{
+  "Addition": 800
+}
+
+
+{
+  "Multiplication": 30000
+}
+
+

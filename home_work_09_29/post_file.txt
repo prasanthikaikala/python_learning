@@ -1,0 +1,7 @@
+raghuram raghuram1@ok.com male active
+ramakanth ramakanth1@ok.com male active
+harikumar harikumar1@ok.com male active
+suresh suresh51@ok.com male active
+ravikiran ravi1@ok.com male active
+lathakirshna lathak1@ok.com female active
+ramya ramya1@ok.com female active

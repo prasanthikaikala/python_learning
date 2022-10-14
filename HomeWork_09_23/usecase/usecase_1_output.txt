@@ -1,0 +1,12 @@
+******************************************
+**********  Summary Report ***************
+1. total lines in the file => 6
+2. total words in file     => 101
+3. words starting vowels   => 21
+4. words starting with const => 80
+5. there are number count =>  17
+6. even numbers count =>  11
+7. odd numbers  count => 6
+8. total of even numbers => 870
+9. Total of odd numbers => 76
+*******************************************
